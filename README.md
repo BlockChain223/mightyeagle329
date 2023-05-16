@@ -66,3 +66,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mightyeagle329&show_icons=true&locale=en&theme=onedark" alt="mightyeagle329" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mightyeagle329&theme=onedark" alt="mightyeagle329" /></p>
+
+### 
+<img src="https://github-profile-trophy.vercel.app/?username=mightyeagle329&theme=gruvbox&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" />
